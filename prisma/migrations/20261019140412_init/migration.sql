@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Tarefas" ALTER COLUMN "prazo" SET DATA TYPE TEXT;
